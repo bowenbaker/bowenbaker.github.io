@@ -34,14 +34,14 @@
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
-@media (min-width: 48em) {
+@media (min-width: 56em) {
   html {
     font-size: 16px;
   }
 }
 @media (min-width: 58em) {
   html {
-    font-size: 20px;
+    font-size: 16px;
   }
 }
 
@@ -59,7 +59,7 @@ html {
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
-@media (min-width: 48em) {
+@media (min-width: 56em) {
   .sidebar {
     position: fixed;
     top: 0;
@@ -111,7 +111,7 @@ a.sidebar-nav-item:focus {
  * contents to the bottom of the sidebar in tablets and up.
  */
 
-@media (min-width: 48em) {
+@media (min-width: 56em) {
   .sidebar-sticky {
     position: absolute;
     right:  1rem;
@@ -151,7 +151,7 @@ a.sidebar-nav-item:focus {
   padding-bottom: 4rem;
 }
 
-@media (min-width: 48em) {
+@media (min-width: 56em) {
   .content {
     max-width: 50rem;
     margin-left: 20rem;
