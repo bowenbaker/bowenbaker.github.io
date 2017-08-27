@@ -3,7 +3,7 @@ layout: post
 title: Towards Practical Neural Network Meta-Modeling
 titlelink: assets/meng_thesis.pdf
 authors: Bowen Baker
-venue: Preprint
+venue: MIT Masters of Engineering Thesis
 arxiv: 
 code: 
 ---
