@@ -3,7 +3,7 @@ layout: post
 title: Emergent Tool Use from Multi-Agent Autocurricula
 titlelink: https://arxiv.org/abs/1909.07528
 authors: Bowen Baker, Ingmar Kanitscheider, Todor Markov, Yi Wu, Glenn Powell, Bob McGrew, Igor Mordatch
-venue: Preprint
+venue: International Conference on Learning Representations, 2020
 arxiv: https://arxiv.org/abs/1909.07528
 blog: https://openai.com/blog/emergent-tool-use/
 code: https://github.com/openai/multi-agent-emergence-environments
